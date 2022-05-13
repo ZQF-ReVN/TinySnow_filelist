@@ -3616,40 +3616,40 @@ log_play_normal.png
 log_play_over.png
 logose01.wav
 logose02.wav
-macro\bgmlist.txt
-macro\cglist.txt
-macro\endlist.txt
-macro\macro_name.ks
-macro\macro_self.ks
-macro\macro_steam.ks
-macro\namelist.tjs
-macro\scenario.txt
-macro\setting.tjs
-macro\start.ks
-macro\uibgmmode.tjs
-macro\uicgmode.tjs
-macro\uidia.tjs
-macro\uiendmode.tjs
-macro\uihistory.tjs
-macro\uiload.tjs
-macro\uimenu.tjs
-macro\uioption.tjs
-macro\uisave.tjs
-macro\uisel.tjs
-macro\uislpos.tjs
-macro\uititle.tjs
-macro\uititle_omake.tjs
-macro\uiyesno.tjs
+macro/bgmlist.txt
+macro/cglist.txt
+macro/endlist.txt
+macro/macro_name.ks
+macro/macro_self.ks
+macro/macro_steam.ks
+macro/namelist.tjs
+macro/scenario.txt
+macro/setting.tjs
+macro/start.ks
+macro/uibgmmode.tjs
+macro/uicgmode.tjs
+macro/uidia.tjs
+macro/uiendmode.tjs
+macro/uihistory.tjs
+macro/uiload.tjs
+macro/uimenu.tjs
+macro/uioption.tjs
+macro/uisave.tjs
+macro/uisel.tjs
+macro/uislpos.tjs
+macro/uititle.tjs
+macro/uititle_omake.tjs
+macro/uiyesno.tjs
 mail.wav
 mail1.ogg
-map\extra_endA_normal.png
-map\extra_endA_over.png
-map\extra_endB_normal.png
-map\extra_endB_over.png
-map\herodata.edu
-map\notebook.edu
-map\omake.map
-map\sample.map
+map/extra_endA_normal.png
+map/extra_endA_over.png
+map/extra_endB_normal.png
+map/extra_endB_over.png
+map/herodata.edu
+map/notebook.edu
+map/omake.map
+map/sample.map
 menu_button_01.png
 menu_button_02.png
 menu_button_03.png
@@ -3676,71 +3676,71 @@ num-6.png
 num-7.png
 num-8.png
 num-9.png
-nvl\animplayer.ks
-nvl\bgmmode.ks
-nvl\cgmode.ks
-nvl\endmode.ks
-nvl\firefly.ks
-nvl\firefly_0.png
-nvl\firefly_1.png
-nvl\firefly_2.png
-nvl\firefly_3.png
-nvl\firefly_4.png
-nvl\fog.ks
-nvl\fog_0.png
-nvl\fog_1.png
-nvl\fog_2.png
-nvl\fog_3.png
-nvl\function.ks
-nvl\load.ks
-nvl\macro.ks
-nvl\macro_bgm.ks
-nvl\macro_cg.ks
-nvl\macro_edu.ks
-nvl\macro_end.ks
-nvl\macro_map.ks
-nvl\macro_play.ks
-nvl\macro_sl.ks
-nvl\macro_ui.ks
-nvl\main_menu.ks
-nvl\momiji.ks
-nvl\momiji_0.png
-nvl\momiji_1.png
-nvl\momiji_2.png
-nvl\momiji_3.png
-nvl\momiji_4.png
-nvl\momiji_5.png
-nvl\myhistorylayer.tjs
-nvl\mysaveloadfunction.tjs
-nvl\myyesnodialog.tjs
-nvl\oldmovie.ks
-nvl\option.ks
-nvl\picscroller.ks
-nvl\PMultiText.tjs
-nvl\rain.ks
-nvl\rain_0_0.png
-nvl\rain_0_1.png
-nvl\rain_0_2.png
-nvl\rain_0_3.png
-nvl\rclick.ks
-nvl\sakura.ks
-nvl\sakura_0.png
-nvl\sakura_1.png
-nvl\sakura_2.png
-nvl\sakura_3.png
-nvl\sakura_4.png
-nvl\sakura_5.png
-nvl\save.ks
-nvl\snow.ks
-nvl\snow_0.png
-nvl\snow_1.png
-nvl\snow_2.png
-nvl\snow_3.png
-nvl\snow_4.png
-nvl\snowsp_0.png
-nvl\snowsp_1.png
-nvl\staffroll.ks
-nvl\timebar.ks
+nvl/animplayer.ks
+nvl/bgmmode.ks
+nvl/cgmode.ks
+nvl/endmode.ks
+nvl/firefly.ks
+nvl/firefly_0.png
+nvl/firefly_1.png
+nvl/firefly_2.png
+nvl/firefly_3.png
+nvl/firefly_4.png
+nvl/fog.ks
+nvl/fog_0.png
+nvl/fog_1.png
+nvl/fog_2.png
+nvl/fog_3.png
+nvl/function.ks
+nvl/load.ks
+nvl/macro.ks
+nvl/macro_bgm.ks
+nvl/macro_cg.ks
+nvl/macro_edu.ks
+nvl/macro_end.ks
+nvl/macro_map.ks
+nvl/macro_play.ks
+nvl/macro_sl.ks
+nvl/macro_ui.ks
+nvl/main_menu.ks
+nvl/momiji.ks
+nvl/momiji_0.png
+nvl/momiji_1.png
+nvl/momiji_2.png
+nvl/momiji_3.png
+nvl/momiji_4.png
+nvl/momiji_5.png
+nvl/myhistorylayer.tjs
+nvl/mysaveloadfunction.tjs
+nvl/myyesnodialog.tjs
+nvl/oldmovie.ks
+nvl/option.ks
+nvl/picscroller.ks
+nvl/PMultiText.tjs
+nvl/rain.ks
+nvl/rain_0_0.png
+nvl/rain_0_1.png
+nvl/rain_0_2.png
+nvl/rain_0_3.png
+nvl/rclick.ks
+nvl/sakura.ks
+nvl/sakura_0.png
+nvl/sakura_1.png
+nvl/sakura_2.png
+nvl/sakura_3.png
+nvl/sakura_4.png
+nvl/sakura_5.png
+nvl/save.ks
+nvl/snow.ks
+nvl/snow_0.png
+nvl/snow_1.png
+nvl/snow_2.png
+nvl/snow_3.png
+nvl/snow_4.png
+nvl/snowsp_0.png
+nvl/snowsp_1.png
+nvl/staffroll.ks
+nvl/timebar.ks
 nvl_logo.jpg
 option_button_01.png
 option_button_02.png
@@ -3911,62 +3911,62 @@ scbgm07.ogg
 scbgm09.ogg
 scbgm10.ogg
 scbgm11.ogg
-scenario\about.ks
-scenario\afterinit.tjs
-scenario\endA.ks
-scenario\endB.ks
-scenario\first.ks
-scenario\other.ks
-scenario\other_sample.ks
-scenario\override.tjs
-scenario\prelogue.ks
-scenario\section 01.ks
-scenario\section 02.ks
-scenario\section 03.ks
-scenario\section 04.ks
-scenario\section 05.ks
-scenario\section 06.ks
-scenario\section 07.ks
-scenario\section 07end.ks
-scenario\section 08.ks
-scenario\section 09.ks
-scenario\section 10.ks
-scenario\section 11.ks
-scenario\section 12.ks
-scenario\section 13.ks
-scenario\section 14.ks
-scenario\section 14end.ks
-scenario\section 15.ks
-scenario\section 16.ks
-scenario\section 17.ks
-scenario\section 18.ks
-scenario\section 19.ks
-scenario\section ex.ks
-scenario\title.ks
-scenario\title_other.ks
-scenario_tchinese\prelogue.ks
-scenario_tchinese\section 01.ks
-scenario_tchinese\section 02.ks
-scenario_tchinese\section 03.ks
-scenario_tchinese\section 04.ks
-scenario_tchinese\section 05.ks
-scenario_tchinese\section 06.ks
-scenario_tchinese\section 07.ks
-scenario_tchinese\section 07end.ks
-scenario_tchinese\section 08.ks
-scenario_tchinese\section 09.ks
-scenario_tchinese\section 10.ks
-scenario_tchinese\section 11.ks
-scenario_tchinese\section 12.ks
-scenario_tchinese\section 13.ks
-scenario_tchinese\section 14.ks
-scenario_tchinese\section 14end.ks
-scenario_tchinese\section 15.ks
-scenario_tchinese\section 16.ks
-scenario_tchinese\section 17.ks
-scenario_tchinese\section 18.ks
-scenario_tchinese\section 19.ks
-scenario_tchinese\section ex.ks
+scenario/about.ks
+scenario/afterinit.tjs
+scenario/endA.ks
+scenario/endB.ks
+scenario/first.ks
+scenario/other.ks
+scenario/other_sample.ks
+scenario/override.tjs
+scenario/prelogue.ks
+scenario/section 01.ks
+scenario/section 02.ks
+scenario/section 03.ks
+scenario/section 04.ks
+scenario/section 05.ks
+scenario/section 06.ks
+scenario/section 07.ks
+scenario/section 07end.ks
+scenario/section 08.ks
+scenario/section 09.ks
+scenario/section 10.ks
+scenario/section 11.ks
+scenario/section 12.ks
+scenario/section 13.ks
+scenario/section 14.ks
+scenario/section 14end.ks
+scenario/section 15.ks
+scenario/section 16.ks
+scenario/section 17.ks
+scenario/section 18.ks
+scenario/section 19.ks
+scenario/section ex.ks
+scenario/title.ks
+scenario/title_other.ks
+scenario_tchinese/prelogue.ks
+scenario_tchinese/section 01.ks
+scenario_tchinese/section 02.ks
+scenario_tchinese/section 03.ks
+scenario_tchinese/section 04.ks
+scenario_tchinese/section 05.ks
+scenario_tchinese/section 06.ks
+scenario_tchinese/section 07.ks
+scenario_tchinese/section 07end.ks
+scenario_tchinese/section 08.ks
+scenario_tchinese/section 09.ks
+scenario_tchinese/section 10.ks
+scenario_tchinese/section 11.ks
+scenario_tchinese/section 12.ks
+scenario_tchinese/section 13.ks
+scenario_tchinese/section 14.ks
+scenario_tchinese/section 14end.ks
+scenario_tchinese/section 15.ks
+scenario_tchinese/section 16.ks
+scenario_tchinese/section 17.ks
+scenario_tchinese/section 18.ks
+scenario_tchinese/section 19.ks
+scenario_tchinese/section ex.ks
 scfigitem_001.png
 scfigjiaoshou_big_000.png
 scfigjiaoshou_big_015.png
@@ -4538,58 +4538,58 @@ spexfig.png
 spexfig2.png
 spexfig3.png
 startup.tjs
-system\action.tjs
-system\affinelayer.tjs
-system\animationlayer.tjs
-system\autolabel.ks
-system\bgm.tjs
-system\buttonlayer.tjs
-system\check.png
-system\CheckBoxLayer.tjs
-system\conductor.tjs
-system\defaultmover.tjs
-system\dialoglayer.tjs
-system\EditLayer.tjs
-system\ExecDialog.tjs
-system\graphiclayer.tjs
-system\historylayer.tjs
-system\initialize.tjs
-system\KAGEnvBaseLayer.tjs
-system\KAGEnvBGM.tjs
-system\KAGEnvCharacter.tjs
-system\KAGEnvImage.tjs
-system\KAGEnvironment.tjs
-system\KAGEnvLayer.tjs
-system\KAGEnvLevelLayer.tjs
-system\KAGEnvSE.tjs
-system\KAGEnvSimpleLayer.tjs
-system\kaglayer.tjs
-system\layerex.tjs
-system\linebreak.asd
-system\linebreak.png
-system\linebreak_a.png
-system\mainwindow.tjs
-system\mapselectlayer.tjs
-system\menus.tjs
-system\messagelayer.tjs
-system\movie.tjs
-system\pagebreak.asd
-system\pagebreak.png
-system\pagebreak_a.png
-system\plugin.tjs
-system\se.tjs
-system\selectlayer.tjs
-system\sliderlayer.tjs
-system\TextTransConfig.tjs
-system\translayer.tjs
-system\UILoader.tjs
-system\updateconfig.tjs
-system\utils.tjs
-system\Utils_graphics.tjs
-system\world.ks
-system\world.tjs
-system\YAML.tjs
-system\yesnodialog.tjs
+system/action.tjs
+system/affinelayer.tjs
+system/animationlayer.tjs
+system/autolabel.ks
+system/bgm.tjs
+system/buttonlayer.tjs
+system/check.png
+system/CheckBoxLayer.tjs
+system/conductor.tjs
+system/defaultmover.tjs
+system/dialoglayer.tjs
+system/EditLayer.tjs
+system/ExecDialog.tjs
+system/graphiclayer.tjs
+system/historylayer.tjs
+system/initialize.tjs
+system/KAGEnvBaseLayer.tjs
+system/KAGEnvBGM.tjs
+system/KAGEnvCharacter.tjs
+system/KAGEnvImage.tjs
+system/KAGEnvironment.tjs
+system/KAGEnvLayer.tjs
+system/KAGEnvLevelLayer.tjs
+system/KAGEnvSE.tjs
+system/KAGEnvSimpleLayer.tjs
+system/kaglayer.tjs
+system/layerex.tjs
+system/linebreak.asd
+system/linebreak.png
+system/linebreak_a.png
+system/mainwindow.tjs
+system/mapselectlayer.tjs
+system/menus.tjs
+system/messagelayer.tjs
+system/movie.tjs
+system/pagebreak.asd
+system/pagebreak.png
+system/pagebreak_a.png
+system/plugin.tjs
+system/se.tjs
+system/selectlayer.tjs
+system/sliderlayer.tjs
+system/TextTransConfig.tjs
+system/translayer.tjs
+system/UILoader.tjs
+system/updateconfig.tjs
+system/utils.tjs
+system/Utils_graphics.tjs
+system/world.ks
+system/world.tjs
+system/YAML.tjs
+system/yesnodialog.tjs
 systitbase01.png
 systitbase02.png
 systitbase03.png
@@ -4615,30 +4615,30 @@ title_button_on_07.png
 title_button_on_08.png
 title_button_on_09.png
 touch.wav
-ui\cbcg01a_000_thum.png
-ui\cbcg01a_000_thum_over.png
-ui\cbcg02a_029_thum.png
-ui\cbcg02a_029_thum_over.png
-ui\cbcg04a_000_thum.png
-ui\cbcg04a_000_thum_over.png
-ui\cbcg06a_034_thum.png
-ui\cbcg06a_034_thum_over.png
-ui\cbcg07a_003_thum.png
-ui\cbcg07a_003_thum_over.png
-ui\cbcg08a_12_thum.png
-ui\cbcg08a_12_thum_over.png
-ui\cbcgold101_thum.png
-ui\cbcgold101_thum_over.png
-ui\cbcgold201_thum.png
-ui\cbcgold201_thum_over.png
-ui\cbcgold301_thum.png
-ui\cbcgold301_thum_over.png
-ui\excgfig001_thum.png
-ui\excgfig001_thum_over.png
-ui\excgfig003_thum.png
-ui\excgfig003_thum_over.png
-ui\excgfig004_thum.png
-ui\excgfig004_thum_over.png
+ui/cbcg01a_000_thum.png
+ui/cbcg01a_000_thum_over.png
+ui/cbcg02a_029_thum.png
+ui/cbcg02a_029_thum_over.png
+ui/cbcg04a_000_thum.png
+ui/cbcg04a_000_thum_over.png
+ui/cbcg06a_034_thum.png
+ui/cbcg06a_034_thum_over.png
+ui/cbcg07a_003_thum.png
+ui/cbcg07a_003_thum_over.png
+ui/cbcg08a_12_thum.png
+ui/cbcg08a_12_thum_over.png
+ui/cbcgold101_thum.png
+ui/cbcgold101_thum_over.png
+ui/cbcgold201_thum.png
+ui/cbcgold201_thum_over.png
+ui/cbcgold301_thum.png
+ui/cbcgold301_thum_over.png
+ui/excgfig001_thum.png
+ui/excgfig001_thum_over.png
+ui/excgfig003_thum.png
+ui/excgfig003_thum_over.png
+ui/excgfig004_thum.png
+ui/excgfig004_thum_over.png
 walkinsnow.wav
 water.wav
 water2.ogg
