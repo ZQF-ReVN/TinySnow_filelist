@@ -12,3 +12,4 @@ LittleEndian.Pack(0x46258BE4U, array, 8);
 文件名可以直接dump如下地址，此处将dump得到所有引擎解密文件尝试路径。  
 由于Garbro可以自行识别正确文件名，即多余/错误文件名不影响。
 ![image](https://github.com/Dir-A/TinySnow_filelist/blob/main/QQ%E6%88%AA%E5%9B%BE20220513154737.png)
+![image](https://github.com/Dir-A/TinySnow_filelist/blob/main/QQ%E6%88%AA%E5%9B%BE20220513160751.png)
